@@ -92,7 +92,7 @@ int main()
 	
 	guess();					//start to guess
 	
-	printf("Bingo£¡\nYou had tried %d times\n",times);
+	printf("Bingo\nYou had tried %d times\n",times);
 	
 	getchar();
 	return 0;
